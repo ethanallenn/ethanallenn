@@ -7,7 +7,7 @@ I'm a entry-level software developer. My interests include web development, clou
 - 🌱 I’m currently learning more about **machine learning** and **data science**.
 - 👯 I’m looking to collaborate on **open-source projects/bespoke system development**.
 - 💬 Ask me about **Python**, and **Azure**.
-- 📫 How to reach me: [EthanAllen@visuae.uk](mailto:EthanAllen@visuae.uk)
+- 📫 How to reach me: [EthanAllen@visuae.uk](mailto:EthanAllen@visuae.uk) / Disc: **@ethqi**
 - ⚡ Fun fact: I have my own Homelab which i am currently planning to host my website on!
 
 ## Skills
