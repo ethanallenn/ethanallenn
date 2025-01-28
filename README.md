@@ -25,6 +25,5 @@ I'm a entry-level software developer. My interests include web development, clou
 ## Get In Touch
 
 - LinkedIn: [linkedin.com/in/ethanallenn](https://linkedin.com/in/ethanallenn)
-- Twitter: [@ethanallenn_dev](https://twitter.com/ethanallenn_dev)
 
 Thanks for visiting my profile! 😊
