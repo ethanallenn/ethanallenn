@@ -10,17 +10,22 @@ I'm a entry-level software developer. My interests include web development and c
 - 📫 How to reach me: [EthanAllen@visuae.uk](mailto:EthanAllen@visuae.uk) / Disc: **@ethqi**
 - ⚡ Fun fact: I have my own Homelab which I am currently planning to host my website on!
 
-## Skills
+## Current Stack:
+<section style="display: flex; justify-content: center; gap: 10px;"></section>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" style="width: 50px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" style="width: 50px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width: 50px; height: auto;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="width: 50px; height: auto;" />
+</section>
 
-- **Languages:** Python, SQL
-- **Frameworks:** React, Node.js, NextJS, Firebase
-- **Tools:** Git, Docker
-- **Cloud:** AWS, Azure, Google Cloud
+          
+
 
 ## GitHub Stats
 
 ![ethanallenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanallenn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![](https://wakatime.com/share/@2daae4b6-1ab2-40ac-8500-68143bc9509e/c65b52c6-7c8c-45e8-963b-bf690abff2ea.svg)
 
 ## Get In Touch
 
