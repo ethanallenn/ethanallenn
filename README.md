@@ -20,7 +20,7 @@ I'm a entry-level software developer. My interests include web development and c
 ## GitHub Stats
 
 ![ethanallenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethanallenn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-<figure><embed src="https://wakatime.com/share/@2daae4b6-1ab2-40ac-8500-68143bc9509e/c65b52c6-7c8c-45e8-963b-bf690abff2ea.svg"></embed></figure>
+![](https://wakatime.com/share/@2daae4b6-1ab2-40ac-8500-68143bc9509e/c65b52c6-7c8c-45e8-963b-bf690abff2ea.svg)
 
 ## Get In Touch
 
