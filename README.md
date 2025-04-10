@@ -1,8 +1,8 @@
-# Hi there, I'm Ethan Allen! 👋
+# Hi there, I'm Ethan! 👋
 
 ## About Me
 
-I'm a entry-level software developer. My interests include web development and cloud computing.
+I'm a entry-level software developer with a focus on front-end. My interests include web development and cloud computing.
 
 - 🌱 I’m currently learning more about **machine learning** and **web development**.
 - 👯 I’m looking to collaborate on **open-source projects/bespoke system development**.
