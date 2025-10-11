@@ -1,9 +1,15 @@
-# Hey, I'm Ethan!
+# Welcome 🏢
 
 ## About Me
 
-I'm a 1st Year Student studying **Computer Science"" at Queen's University Belfast. I am currently working on my Business Engangement Company **Visuae**, designed to help business keep track of trends and employee engagement rates.
-If you would like to contact me please get in touch by emailing [Ethan.Allenvisuae.uk](mailto:Ethan.Allen@visuae.uk) or you can find me of Discord@ **@ethqi**.
+👋 Hi, I'm Ethan Allen — a 1st Year Computer Science student at Queen's University Belfast.
+I'm currently developing **AdminFlow by Visuae**, a Business Engagement Platform designed to help businesses monitor trends and boost employee engagement.
+
+Feel free to reach out if you want to know more, or even to have a chat with me! (I'm down for that too! 😊}
+
+📧 [Ethan.Allen@visuae.uk](mailto:Ethan.Allen@visuae.uk)
+
+💬 Discord: **@ethqi**
 
 ## Current Stack:
 
@@ -17,7 +23,15 @@ If you would like to contact me please get in touch by emailing [Ethan.Allenvisu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="50"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50 /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" /> 
 </div>
 
-</br>
+<br>
+
+
+<div align="center">
+    Check out the Visuae Website (currently in production):  
+    🌐 https://hello.visuae.uk
+</div>
+
+<br>
