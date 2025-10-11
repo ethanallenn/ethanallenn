@@ -1,14 +1,9 @@
-# Hi there, I'm Ethan! 👋
+# Hey, I'm Ethan!
 
 ## About Me
 
-I'm a entry-level software developer with a focus on front-end. My interests include web development and cloud computing.
-
-- 🌱 I’m currently learning more about **machine learning** and **web development**.
-- 👯 I’m looking to collaborate on **open-source projects/bespoke system development**.
-- 💬 Ask me about **Python**, **Azure**, and **broadcast production/vision mixing**.
-- 📫 How to reach me: [EthanAllen@visuae.uk](mailto:EthanAllen@visuae.uk)
-- ⚡ Fun fact: I am currently learning Norwegiasn and Japanese.
+I'm a 1st Year Student studying **Computer Science"" at Queen's University Belfast. I am currently working on my Business Engangement Company **Visuae**, designed to help business keep track of trends and employee engagement rates.
+If you would like to contact me please get in touch by emailing [Ethan.Allenvisuae.uk](mailto:Ethan.Allen@visuae.uk) or you can find me of Discord@ **@ethqi**.
 
 ## Current Stack:
 
