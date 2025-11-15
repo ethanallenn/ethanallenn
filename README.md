@@ -31,7 +31,7 @@ Feel free to reach out if you want to know more, or even to have a chat with me!
 
 <div align="center">
     Check out the Visuae Website (currently in production):  
-    🌐 https://hello.visuae.uk
+    🌐 https://visuae.uk
 </div>
 
 <br>
