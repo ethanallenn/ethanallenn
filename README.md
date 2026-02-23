@@ -3,7 +3,7 @@
 ## About Me
 
 👋 Hi, I'm Ethan Allen — a 1st Year Computer Science student at Queen's University Belfast.
-Along with my team at Visuae, we are developing **UniSwap by Visuae**, a Marketplace Platform designed to help students buy and swap items between each other, whilst having the ability to make new friends on their course.
+I'm also one of the Project Managers/Co-Founders at **Visuae**, an NI Based tech startup, developing bespoke web applications for both internal/external usage. 
 
 Feel free to reach out if you want to know more, or even to have a chat with me! (I'm down for that too! 😊}
 
@@ -30,7 +30,7 @@ Feel free to reach out if you want to know more, or even to have a chat with me!
 
 
 <div align="center">
-    Check out the Visuae Website (currently in production):  
+    Check out the Visuae Website:  
     🌐 https://visuae.uk
 </div>
 
