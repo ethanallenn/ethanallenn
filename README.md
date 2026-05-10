@@ -3,7 +3,6 @@
 ## About Me
 
 👋 Hi, I'm Ethan Allen — a 1st Year Computer Science student at Queen's University Belfast.
-I'm also one of the Project Managers/Co-Founders at **Visuae**, an NI Based tech startup, developing bespoke web applications for both internal/external usage. 
 
 Feel free to reach out if you want to know more, or even to have a chat with me! (I'm down for that too! 😊}
 
@@ -27,11 +26,5 @@ Feel free to reach out if you want to know more, or even to have a chat with me!
 </div>
 
 <br>
-
-
-<div align="center">
-    Check out the Visuae Website:  
-    🌐 https://visuae.uk
-</div>
 
 <br>
